@@ -6,3 +6,4 @@
 ##### Practical 2 : Merge Sort implemented using recursive approch.
 ##### Practical 3 : Implementation of Quick Sort.
 ##### Practical 4 : Write a program to solve 0/1 Knapsack.
+##### Practical 5 : Prims Algorithm.
