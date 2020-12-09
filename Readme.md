@@ -7,3 +7,5 @@
 ##### Practical 3 : Implementation of Quick Sort.
 ##### Practical 4 : Write a program to solve 0/1 Knapsack.
 ##### Practical 5 : Prims Algorithm.
+##### Practical 6 : Kruskal's algorithm.
+##### Practical 7 : Bell-Man Ford.
